@@ -5,6 +5,7 @@ Este repositorio incluira toda la información sobre el ejercicio **_2.2.1.Prime
 ### Descripción de la página web
 
 El tema principal de mi web trata sobre la canción **Never Gonna Give You Up** de **Rick Astley**.
+
 El [head] es Rick Astley - Never Gonna Give You Up y el [body] lleva las siguientes partes:
   * Un título "Rick Astley" con una descripción "Never Gonna Give you up".
   * Imagen del artista bailando llamada "Rickroll.jpg".
